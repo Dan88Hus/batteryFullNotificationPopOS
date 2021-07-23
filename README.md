@@ -9,7 +9,7 @@ Modified for Pop OS
 
 ## Installation :
 
-1. Install `acpi` package :
+1. Install `acpi` and `libnotify-bin` package :
 
         sudo apt-get install acpi
 
