@@ -30,7 +30,7 @@ done
 #             vlc /usr/share/sounds/freedesktop/stereo/ alarm-clock-elapsed.oga
 #         fi
 #     fi
-#     sleep 300 # (5 minutes)
+#     sleep 60 # (6 sec)
 # done
 
 
