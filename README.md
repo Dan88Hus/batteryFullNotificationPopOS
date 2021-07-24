@@ -34,7 +34,7 @@ Modified for Pop OS
 --------------
 PS:
 
-cp batteryfull.* ~/bin
+cp batteryfull.* ~/
 Or copy it to /usr/local/bin if you want it to be available for all users on your computer:
 
 
